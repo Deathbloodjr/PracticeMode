@@ -1,7 +1,7 @@
 # PracticeMode
 | Mono | IL2CPP |
 |:--:|:--:|
-|✅|❓|
+|✅|❌|
 
  A mod to enter a practice mode in TDMX.
 
