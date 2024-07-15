@@ -8,7 +8,7 @@
  This mod was made to resemble a lot of the features from Taiko PS4's practice mode. This mod's able to adjust the song speed from 1.0x down to 0.5x, as well as scroll forward or backward in a song. \
  \
  I was unable to get branch changes working though, so this mod might not work properly on songs with branches. I'm not sure exactly how it'll look on songs with branches. It might auto force you to normal branch every time you scroll. \
- \
+ 
  
 # Usage
  After installation, you can enter Practice Mode by going to the Custom Modes button at the right, and selecting Practice Mode. 
